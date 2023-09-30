@@ -19,16 +19,6 @@ As a freelance coder based in the vibrant landscape of Indonesia, I find my pass
 
 ## Skills
 
-- HTML5 ![HTML5](https://img.shields.io/badge/HTML5-95%25-success)
-- CSS ![CSS](https://img.shields.io/badge/CSS-94%25-success)
-- React ![React](https://img.shields.io/badge/React-85%25-success)
-- Python ![Python](https://img.shields.io/badge/Python-95%25-success)
-- JavaScript ![JavaScript](https://img.shields.io/badge/JavaScript-85%25-success)
-- Golang ![Golang](https://img.shields.io/badge/Golang-78%25-success)
-- Linux ![Linux](https://img.shields.io/badge/Linux-80%25-success)
-
-Here are the progress bars for each skill:
-
 - ![HTML5](https://img.shields.io/badge/HTML5-95%25-success) ██████████░░ 95%
 - ![CSS](https://img.shields.io/badge/CSS-94%25-success) █████████▓░ 94%
 - ![React](https://img.shields.io/badge/React-85%25-success) ████████▒░░ 85%
