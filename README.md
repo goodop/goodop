@@ -3,7 +3,7 @@
 # Hello, I'm Asking Ang 👋
 
 <div style="text-align:center;">
-  <img src="https://ang.execross.pw/assets/ang-profile.jpg" alt="Profile Picture" style="border-radius:50%; max-width:200px;">
+  <img src="https://ang.execross.pw/assets/images/ang-profile.jpg" alt="Profile Picture" style="border-radius:50%; max-width:200px;">
 </div>
 
 As a freelance coder based in the vibrant landscape of Indonesia, I find my passion and purpose in transforming creative ideas into functional code. My journey in the world of programming has been an exhilarating adventure, driven by the desire to bring innovative concepts to life.
