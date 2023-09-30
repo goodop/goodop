@@ -6,7 +6,7 @@ As a freelance coder based in the vibrant landscape of Indonesia, I find my pass
 
 ## About Me
 
-- 🔭 I’m currently working on private project [Imjustgood](https://api.imjustgood.com) and [Execross](https://api.imjustgood.com)
+- 🔭 I’m currently working on private project [Imjustgood](https://api.imjustgood.com) and [Execross](https://execross.pw).
 - 🌱 I’m currently learning **Data Structur**.
 - 💬 Ask me about **Social Media Bot**.
 - 📫 How to reach me: **askingang@gmail.com**.
