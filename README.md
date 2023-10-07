@@ -16,7 +16,7 @@ As a freelance coder based in the vibrant landscape of Indonesia, I find my pass
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue)](https://github.com/goodop)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/0xangx)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-blue?logo=instagram)](https://www.instagram.com/this.ang/)
-
+<img alt="VIEWS" src="https://komarev.com/ghpvc/?username=goodop&color=blue&label=visitors" height="20" style="max-width:100%;">
 ## Skills
 
 - ![HTML5](https://img.shields.io/badge/HTML5-95%25-success) ██████████░░ 95%
