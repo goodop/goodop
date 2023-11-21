@@ -33,3 +33,13 @@ As a freelance coder based in the vibrant landscape of Indonesia, I find my pass
 - [![Line Messenger](https://img.shields.io/badge/Line%20Messenger-Chat-green?logo=line)](https://line.me/ti/p/~asking.ang)
 - [![Telegram](https://img.shields.io/badge/Telegram-Message-blue?logo=telegram)](https://t.me/exevgx)
 
+## Contact Me
+
+- [![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-green?logo=whatsapp)](https://wa.me/6281947168203?text=Hi%20Ang,%20I%20want%20your%20service.%20Is%20it%20available%20now%3F)
+- [![Line Messenger](https://img.shields.io/badge/Line%20Messenger-Chat-green?logo=line)](https://line.me/ti/p/~asking.ang)
+- [![Telegram](https://img.shields.io/badge/Telegram-Message-blue?logo=telegram)](https://t.me/exevgx)
+
+## Hire Me
+
+- **If you need my skills to help you build your project, you can send an email to [askingang@gmail.com](mailto:askingang@gmail.com)**
+
