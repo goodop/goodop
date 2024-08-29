@@ -37,7 +37,7 @@ As a freelance coder based in the vibrant landscape of Indonesia, I find my pass
 
 - [![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-green?logo=whatsapp)](https://wa.me/6281947168203?text=Hi%20Ang,%20I%20want%20your%20service.%20Is%20it%20available%20now%3F)
 - [![Line Messenger](https://img.shields.io/badge/Line%20Messenger-Chat-green?logo=line)](https://line.me/ti/p/~asking.ang)
-- [![Telegram](https://img.shields.io/badge/Telegram-Message-blue?logo=telegram)](https://t.me/exevgx)
+- [![Telegram](https://img.shields.io/badge/Telegram-Message-blue?logo=telegram)](https://t.me/execross)
 
 ## Hire Me
 
